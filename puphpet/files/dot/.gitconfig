@@ -1,0 +1,12 @@
+[core]
+  editor = 'C:/Program Files/Sublime Text 3/sublime_text.exe' -n -w
+  autocrlf = input
+[push]
+  default = upstream
+[merge]
+  conflictstyle = diff3
+[user]
+  email = markweig@gmail.com
+  name = Mark
+[credential]
+  helper = wincred
